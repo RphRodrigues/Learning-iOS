@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "zup_insights.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
